@@ -1,10 +1,12 @@
 # Drum Machine with React
 
 This is a project built for the FreeCodeCamp curriculum. It's a web application that simulates a drum machine, allowing users to trigger different drum sounds either by clicking on the drum pads or by pressing the corresponding keys on the keyboard.
+## App Screenshot
+![image](https://github.com/Lucas-Erkana/FCC-drum-machine/assets/41428579/8f4d075a-5ef0-453b-9f67-d54de2abaaa3)
 
 ## Live Demo
 
-To see this project's live demo, please click [here](insert link to live demo).
+To see this project's live demo, please click [here](https://fcc-drum-machine-lucas.netlify.app/).
 
 ## Built With
 
